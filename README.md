@@ -1,5 +1,5 @@
 # Hi💫, I'm Prince Joshwa
-🔭 I’m currently working on a Software Developer at StartupSide, building scalable web applications<br>👯 I’m looking to collaborate on  innovative front-end projects<br>🤝 I’m looking for help with optimizing back-end architecture and API integration in Express.js<br>🌱 I’m currently learning  advanced Express.js concepts and ShadCn UI and advanced MongoDB techniques<br>💬 Ask me about MERN stack development and front-end frameworks<br>⚡ Fun fact  I love solving coding challenges and can spend hours optimizing a single line of code!
+🔭 I’m currently working on a Software Developer at Startupbricks, building scalable web applications<br>👯 I’m looking to collaborate on  innovative front-end projects<br>🤝 I’m looking for help with optimizing back-end architecture and API integration in Express.js<br>🌱 I’m currently learning  advanced Express.js concepts and ShadCn UI and advanced MongoDB techniques<br>💬 Ask me about MERN stack development and front-end frameworks<br>⚡ Fun fact  I love solving coding challenges and can spend hours optimizing a single line of code!
 
 
 ## 🌐 Socials:
